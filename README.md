@@ -25,8 +25,8 @@ I'll respond to questions, concerns, or issues when able, but understand other p
 
 Needs to be included in your sway config:
 
-    *bar {
+    bar {
       status_command $PATH_TO_INSTALLATION/swaybar-status/target/release/swaybar-status
-    }*
+    }
 
 Then reload sway.
